@@ -1,0 +1,228 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.home{
+    background-image: url("../imgs/pexels-gül-işık-8147948.jpg");
+    background-size:cover;
+    padding-bottom: 200px;
+}
+nav{
+    width: 100%;
+}
+nav .bakery img{
+    margin-left: 30%;
+    width: 60%;
+}
+ul{
+    float: left;
+    margin: 15px;
+}
+.ritnav{
+    margin-left: 60%;
+    font-family:'Ubuntu' , 'sans-serif';
+    padding-top: 20px;
+    font-size: 24;
+    font-weight: 600;
+    color: aliceblue;
+}
+.head{
+    clear: both;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.tail{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+    margin-top: 10%;
+}
+.b1{
+    background-color: rgb(172, 113, 36);
+    padding: 15px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 5px;
+}
+.b2{
+    background-color: transparent;
+    padding: 15px;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: aliceblue;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 5px;
+}
+.buttons{
+    margin-top: 50px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div2{
+    margin-top: 2.5%;
+    margin-left: 5%;
+    margin-bottom: 2.5%;
+    margin-right: 0%;
+    width: 90%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.div2 .who{
+    width: 50%;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.div2 .who p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial' , 'sans-serif';
+}
+.div2 table{
+    margin-left: 10%;
+}
+td{
+    /* padding: 10px; */
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+}
+.div3{
+    padding-top: 2.5%;
+    padding-left: 5%;
+    padding-bottom: 2.5%;
+    padding-right: 5%;
+    width: 90%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-color:whitesmoke;
+}
+.div3 .our{
+    width: 50%;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.div3 .our p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial' , 'sans-serif';
+}
+.div4{
+    margin-top: 2.5%;
+    margin-left: 5%;
+    margin-bottom: 2.5%;
+    margin-right: 0%;
+    width: 90%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.div4 .contact{
+    width: 50%;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.div4 .contact p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial' , 'sans-serif';
+}
+.div5{
+    padding-top: 2.5%;
+    padding-left: 5%;
+    padding-bottom: 2.5%;
+    padding-right: 5%;
+    width: 90%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-color:whitesmoke;
+}
+.div .txt{
+    margin-top: 15px;
+}
+.div5 .txt p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial' , 'sans-serif';
+}
+.div6{
+    padding-left: 5%;
+    padding-bottom: 2.5%;
+    padding-right: 5%;
+    width: 90%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-color:whitesmoke;
+}
+.div6 table td{
+    padding: 0px 15px;
+}
+th{
+    font-size: 24;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 0;
+}
+.div7{
+    padding-top: 2.5%;
+    padding-left: 5%;
+    padding-bottom: 2.5%;
+    padding-right: 5%;
+    width: 90%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    background-color:#65451F;
+}
+.div7 p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+.footer{
+    background-color: #321E1E;
+    padding-top: 2.5%;
+    padding-left: 5%;
+    padding-bottom: 2.5%;
+    padding-right: 5%;
+    width: 90%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.footer p{
+    display: flex;
+}
+.last img{
+    padding: 15px;
+
+}
